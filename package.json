@@ -1,0 +1,25 @@
+{
+  "name": "cmyk2rgb",
+  "version": "0.0.1",
+  "description": "Convert CMYK color to RGB",
+  "main": "cmyk2rgb.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/eschmid72/cmyk2rgb.git"
+  },
+  "keywords": [
+    "color",
+    "colors",
+    "cmyk",
+    "rgb"
+  ],
+  "author": "Egon Schmid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eschmid72/cmyk2rgb/issues"
+  },
+  "homepage": "https://github.com/eschmid72/cmyk2rgb#readme"
+}
